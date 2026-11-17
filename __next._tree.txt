@@ -1,4 +1,4 @@
-:HL["/Alwaleed/2_dcokya9nzt5.css","style"]
+:HL["/Alwaleed/2eg27y2x6jwq0.css","style"]
 :HL["/Alwaleed/06265ba6950e841c-s.p.1rne3a59172go.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/Alwaleed/066ba92c8fc1c222-s.p.3lj349bs9hfu1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/Alwaleed/851a1125fe719f9c-s.p.28v825rc0jjx9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 :HL["/Alwaleed/bf56aec03b6c512f-s.p.2-6hkzwn24m5-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/Alwaleed/d902bc2bfdd0a4cb-s.p.1g73gv09-xcb6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"CEe-dBakJ3EQd0-JWgHTW","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"GVrygG0Rw4XIgdGz3j5mt","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
